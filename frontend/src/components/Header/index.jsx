@@ -72,7 +72,7 @@ const Header = () => {
                   px-7
                 "
               >
-                Login
+                
               </a>
               <a
                 href="javascript:void(0)"
@@ -87,7 +87,7 @@ const Header = () => {
                   hover:bg-opacity-90
                 "
               >
-                Sign Up
+              
               </a>
             </div>
           </div>

@@ -18,11 +18,10 @@ const FormComponent = () => {
   };
 
   const handleFileUpload = async (file, _preview) => {
-    setIsLoading(true);
+  setIsLoading(true);
     const formData = new FormData();
     formData.append("file", file);
-
-    const result = await axios.post(`${BASE_URL}/api/predict`, formData);
+    const result = await axios.post('http://192.168.8.162:80/api/predict', formData);
     setPrediction(result?.data);
     setIsLoading(false);
     setPreview(_preview);
@@ -57,7 +56,7 @@ const FormComponent = () => {
                 Analyze your face
               </h1>
               <p class="text-base mb-8 text-body-color max-w-[480px]">
-                Please upload an image of your face
+                Please upload an image of the face
               </p>
             </div>
           </div>

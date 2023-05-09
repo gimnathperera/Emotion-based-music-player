@@ -42,24 +42,11 @@ const Hero = () => {
             Fix your mood!
           </h1>
           <p class="text-base mb-8 text-body-color max-w-[480px]">
-            The goal of this project is to train a machine learning model to
-            accurately predict whether a sample patient has been diagnosed with
-            heart disease, with higher accuracy.
+            This music recommendation system using facial expression can be a useful tool for helping people discover new music based on their emotional responses. This system uses facial recognition technology to analyze the user's facial expressions and determine their emotional state, whether they are wearing a face mask or not.
           </p>
           <ul class="flex flex-wrap">
             <li>
-              <button
-                class="text-base
-                  font-medium
-                  text-white
-                  bg-[#CF6A6A]
-                  rounded-lg
-                  py-3
-                  px-7
-                  hover:bg-opacity-90"
-              >
-                Get Started
-              </button>
+             
             </li>
             <li>
               <a

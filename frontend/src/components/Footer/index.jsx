@@ -18,8 +18,9 @@ export const Footer = () => {
                 />
               </a>
               <p class="text-base mb-7 text-white">
-                Sed ut perspiciatis undmnis is iste natus error sit amet
-                voluptatem totam rem aperiam.
+                Rakhitha Wimalaweera 
+                <p>UOW -W1790150</p>
+               <p></p> 
               </p>
               <p class="flex items-center text-sm  text-white font-medium">
                 <span class="text-[#CF6A6A] mr-3">
@@ -34,13 +35,13 @@ export const Footer = () => {
                     <path d="M0.802807 6.05619C0.869358 7.52032 2.16711 8.11928 2.83263 8.11928H5.16193C5.19521 8.11928 5.19521 8.11928 5.19521 8.11928C6.19348 8.05273 7.19175 7.38722 7.19175 6.05619V5.25757C8.28985 5.25757 10.8188 5.25757 11.9169 5.25757V6.05619C11.9169 7.38722 12.9152 8.05273 13.9135 8.11928H13.9467H16.2428C16.9083 8.11928 18.206 7.52032 18.2726 6.05619C18.2726 5.95636 18.2726 5.59033 18.2726 5.25757C18.2726 4.99136 18.2726 4.75843 18.2726 4.72516C18.2726 4.69188 18.2726 4.6586 18.2726 4.6586C18.1727 3.72688 17.84 2.96154 17.2743 2.36258L17.241 2.3293C16.4091 1.56396 15.4109 1.13138 14.6455 0.865169C12.416 0 9.62088 0 9.48778 0C7.52451 0.0332757 6.26003 0.199654 4.36331 0.865169C3.63125 1.0981 2.63297 1.53068 1.80108 2.29603L1.7678 2.3293C1.20212 2.92827 0.869359 3.69361 0.769531 4.62533C0.769531 4.6586 0.769531 4.69188 0.769531 4.69188C0.769531 4.75843 0.769531 4.95809 0.769531 5.22429C0.802807 5.52377 0.802807 5.92308 0.802807 6.05619ZM2.5997 3.12792C3.26521 2.52896 4.09711 2.16292 4.7959 1.89672C6.52624 1.26448 7.65761 1.13138 9.55433 1.0981C9.68743 1.0981 12.2829 1.13138 14.2795 1.89672C14.9783 2.16292 15.8102 2.49568 16.4757 3.12792C16.8417 3.52723 17.0746 4.05964 17.1412 4.69188C17.1412 4.79171 17.1412 4.95809 17.1412 5.22429C17.1412 5.55705 17.1412 5.92308 17.1412 6.02291C17.1079 6.78825 16.3759 6.95463 16.276 6.95463H13.98C13.6472 6.92135 13.1148 6.78825 13.1148 6.05619V4.69188C13.1148 4.42567 12.9485 4.22602 12.7155 4.12619C12.5159 4.05964 6.69262 4.05964 6.49296 4.12619C6.26003 4.19274 6.09365 4.42567 6.09365 4.69188V6.05619C6.09365 6.78825 5.56124 6.92135 5.22848 6.95463H2.93246C2.83263 6.95463 2.10056 6.78825 2.06729 6.02291C2.06729 5.92308 2.06729 5.55705 2.06729 5.22429C2.06729 4.95809 2.06729 4.82498 2.06729 4.72516C2.00073 4.05964 2.23366 3.52723 2.5997 3.12792Z" />
                   </svg>
                 </span>
-                <span>+012 (345) 678 99</span>
+                <span>+94 766 57 57 55</span>
               </p>
             </div>
           </div>
           <div class="w-full sm:w-1/2 lg:w-2/12 px-4">
             <div class="w-full mb-10">
-              <h4 class="text-white text-lg font-semibold mb-9">Resources</h4>
+              <h4 class="text-white text-lg font-semibold mb-9"></h4>
               <ul>
                 <li>
                   <a
@@ -53,7 +54,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    SaaS Development
+                    
                   </a>
                 </li>
                 <li>
@@ -67,7 +68,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Our Products
+                    
                   </a>
                 </li>
                 <li>
@@ -81,7 +82,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    User Flow
+                    
                   </a>
                 </li>
                 <li>
@@ -95,7 +96,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    User Strategy
+                    
                   </a>
                 </li>
               </ul>
@@ -103,7 +104,7 @@ export const Footer = () => {
           </div>
           <div class="w-full sm:w-1/2 lg:w-2/12 px-4">
             <div class="w-full mb-10">
-              <h4 class=" text-white text-lg font-semibold mb-9">Company</h4>
+              <h4 class=" text-white text-lg font-semibold mb-9"></h4>
               <ul>
                 <li>
                   <a
@@ -116,7 +117,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    About TailGrids
+                    
                   </a>
                 </li>
                 <li>
@@ -130,7 +131,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Contact & Support
+                    
                   </a>
                 </li>
                 <li>
@@ -144,7 +145,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Success History
+                   
                   </a>
                 </li>
                 <li>
@@ -158,7 +159,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Setting & Privacy
+                    
                   </a>
                 </li>
               </ul>
@@ -167,7 +168,7 @@ export const Footer = () => {
           <div class="w-full sm:w-1/2 lg:w-2/12 px-4">
             <div class="w-full mb-10">
               <h4 class=" text-white text-lg font-semibold mb-9">
-                Quick Links
+                
               </h4>
               <ul>
                 <li>
@@ -181,7 +182,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Premium Support
+                    
                   </a>
                 </li>
                 <li>
@@ -195,7 +196,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Our Services
+                    
                   </a>
                 </li>
                 <li>
@@ -209,7 +210,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Know Our Team
+                   
                   </a>
                 </li>
                 <li>
@@ -223,7 +224,7 @@ export const Footer = () => {
                             mb-2
                             "
                   >
-                    Download App
+                   
                   </a>
                 </li>
               </ul>

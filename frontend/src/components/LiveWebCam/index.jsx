@@ -51,7 +51,7 @@ const CaptureImage = () => {
       const formData = new FormData();
       formData.append("file", dataURItoBlob(imgSrc), "image.jpg");
 
-      const result = await axios.post(`${BASE_URL}/api/predict`, formData);
+      const result = await axios.post('http://192.168.8.162:80/api/predict', formData);
       setPrediction(result?.data);
       setIsLoading(false);
       setModalOpen(false);
@@ -69,12 +69,7 @@ const CaptureImage = () => {
 
   return (
     <>
-      <div
-        className="p-4 border-dashed border-2 border-black rounded-md cursor-pointer"
-        onClick={handleStartCamera}
-      >
-        Open Camera
-      </div>
+      
       <Modal open={modalOpen} onClose={handleStopCamera}>
         <div className="flex flex-col items-center justify-center">
           {cameraActive ? (
